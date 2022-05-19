@@ -1,0 +1,41 @@
+﻿.btnText {
+    color: darkblue;
+    font-size: 13px;
+}
+
+    .btnText:hover {
+        cursor: pointer;
+        font-weight: bold;
+    }
+
+.inputText {
+    width: 300px;
+}
+
+.readText {
+    width: 300px;
+    background-color: lightgray;
+}
+
+.tbl {
+    padding: 1px;
+    margin: 2px;
+}
+
+    .tbl thead {
+        font-weight: bold;
+    }
+
+    .tbl tr {
+        margin: 2px;
+    }
+
+        .tbl tr td {
+            padding-left: 10px
+        }
+
+.dropdown {
+    width: 300px;
+    height: 27px;
+    background-color: aliceblue;
+}
